@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1433789557 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\gauss_elimination\main.c
+	<stdio.h>
+	<stdlib.h>
+	"change_row.h"
+	<ctype.h>
+
+1433789667 c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\gauss_elimination\change_row.h
+
+1433789762 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\gauss_elimination\change_row.c
+	<stdio.h>
+	<stdlib.h>
+
+1433787418 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\gauss_elimination\backward_substitution.c
+	<stdio.h>
+	<stdlib.h>
+
+1433705966 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\gauss_elimination\display.c
+	<stdio.h>
+
+1433715617 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\gauss_elimination\forward_substitution.c
+	<stdio.h>
+	<stdlib.h>
+
+1433788767 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\gauss_elimination\gauss_elimination.c
+	<stdio.h>
+	<stdlib.h>
+	"change_row.h"
+
+1433712054 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\gauss_elimination\triangular.c
+	<stdio.h>
+	<stdlib.h>
+	"change_row.h"
+
+1433704013 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\gauss_elimination\fill_matrix.c
+	<stdio.h>
+	<stdlib.h>
+
+1433788750 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\gauss_elimination\lu_decomposition.c
+	<stdio.h>
+	<stdlib.h>
+	"change_row.h"
+

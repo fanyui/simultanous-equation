@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1433842197 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\linear_system\backward_substitution.c
+	<stdio.h>
+	<stdlib.h>
+
+1433837087 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\linear_system\change_row.c
+	<stdio.h>
+	<stdlib.h>
+
+1433837111 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\linear_system\forward_substitution.c
+	<stdio.h>
+	<stdlib.h>
+
+1433844003 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\linear_system\gauss_elimination.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+
+1433845623 c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\linear_system\linear_system.h
+
+1433843864 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\linear_system\lu_decomposition.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+
+1433842308 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\linear_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+	<ctype.h>
+
+1433845261 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\linear_system\triangular.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+
+1433837101 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\linear_system\display.c
+	<stdio.h>
+
+1433843818 source:c:\users\cabrel\documents\cours_année1\2nd semester notes\cef 204-data struture and algorithms\linear_system\fill_matrix.c
+	<stdio.h>
+	<stdlib.h>
+
+1434090384 source:c:\users\cabrel\desktop\linear_system\change_row.c
+	<stdio.h>
+	<stdlib.h>
+
+1434019123 source:c:\users\cabrel\desktop\linear_system\display.c
+	<stdio.h>
+
+1434092701 source:c:\users\cabrel\desktop\linear_system\fill_matrix.c
+	<stdio.h>
+	<stdlib.h>
+
+1434009635 source:c:\users\cabrel\desktop\linear_system\forward_substitution.c
+	<stdio.h>
+	<stdlib.h>
+
+1434092655 source:c:\users\cabrel\desktop\linear_system\gauss_elimination.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+
+1434093449 c:\users\cabrel\desktop\linear_system\linear_system.h
+
+1434092660 source:c:\users\cabrel\desktop\linear_system\lu_decomposition.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+
+1434092331 source:c:\users\cabrel\desktop\linear_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+	<ctype.h>
+
+1434091003 source:c:\users\cabrel\desktop\linear_system\triangular.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+
+1434087320 source:c:\users\cabrel\desktop\linear_system\backward_substitution.c
+	<stdio.h>
+	<stdlib.h>
+
+1434119722 source:d:\source code group4 cef\backward_substitution.c
+	<stdio.h>
+	<stdlib.h>
+
+1434051524 source:d:\source code group4 cef\display.c
+	<stdio.h>
+
+1434125102 source:d:\source code group4 cef\fill_matrix.c
+	<stdio.h>
+	<stdlib.h>
+
+1434042036 source:d:\source code group4 cef\forward_substitution.c
+	<stdio.h>
+	<stdlib.h>
+
+1434126104 source:d:\source code group4 cef\gauss_elimination.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+
+1434125850 d:\source code group4 cef\linear_system.h
+
+1434127116 source:d:\source code group4 cef\lu_decomposition.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+
+1434124732 source:d:\source code group4 cef\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+	<ctype.h>
+
+1434123404 source:d:\source code group4 cef\triangular.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+
+1434116122 source:c:\users\fanyui\documents\harisu\cfolder\new folder\backward_substitution.c
+	<stdio.h>
+	<stdlib.h>
+
+1434146916 source:c:\users\fanyui\documents\harisu\cfolder\new folder\change_row.c
+	<stdio.h>
+	<stdlib.h>
+
+1434047924 source:c:\users\fanyui\documents\harisu\cfolder\new folder\display.c
+	<stdio.h>
+
+1434121502 source:c:\users\fanyui\documents\harisu\cfolder\new folder\fill_matrix.c
+	<stdio.h>
+	<stdlib.h>
+
+1434038436 source:c:\users\fanyui\documents\harisu\cfolder\new folder\forward_substitution.c
+	<stdio.h>
+	<stdlib.h>
+
+1434122504 source:c:\users\fanyui\documents\harisu\cfolder\new folder\gauss_elimination.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+
+1434122250 c:\users\fanyui\documents\harisu\cfolder\new folder\linear_system.h
+
+1434123516 source:c:\users\fanyui\documents\harisu\cfolder\new folder\lu_decomposition.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+
+1434121132 source:c:\users\fanyui\documents\harisu\cfolder\new folder\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+	<ctype.h>
+
+1434119804 source:c:\users\fanyui\documents\harisu\cfolder\new folder\triangular.c
+	<stdio.h>
+	<stdlib.h>
+	"linear_system.h"
+
